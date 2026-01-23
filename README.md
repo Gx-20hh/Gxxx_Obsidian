@@ -1,39 +1,17 @@
-# Flowershow Template 🌸
+# 我的读书库 📚
 
-Welcome to the Flowershow Template! This is a ready-to-use template for creating beautiful websites from your markdown content, particularly optimized for Obsidian vaults.
+欢迎来到我的读书库，这是我整理阅读笔记、书摘与思考的主页。这里会持续更新我对经典与新书的摘录、批注与心得，方便回顾与检索。
 
-## What is this template?
+## 快速入口
 
-This template serves as a foundation for:
-- Publishing your Obsidian vault as a website
-- Creating a new markdown-based website from scratch
-- Building documentation sites, blogs, or personal websites
+- 读书笔记：[失误动作](03Inbox/失误动作.md)
 
-## Getting Started
+## 阅读记录结构
 
-You can use this template in two main ways:
+- **读书笔记**：完整的章节梳理、重要观点与个人思考
+- **书摘**：重点句子与段落的原文摘录
+- **延伸阅读**：与主题相关的延伸书单与文章
 
-### 1. Publishing Your Obsidian Vault
+## 更新节奏
 
-If you have an existing Obsidian vault:
-1. Install Obsidian Flowershow plugin
-2. Adjust the configuration
-3. Publish you vault
-
-Your Obsidian links, callouts, and other features will be preserved and rendered beautifully on the web.
-
-### 2. Creating a New Site
-
-If you're starting from scratch:
-1. Use this template as your base
-2. Modify the content as you wish using an editor of your choise (or GitHub UI)
-3. Add your own markdown files
-
-## Learn More
-
-For more information about Flowershow and how to customize this template, visit:
-- [Flowershow Documentation](https://flowershow.app/docs)
-
----
-
-Happy publishing! 🚀
+我会在读完一本书后整理笔记，并在完成关键章节时补充书摘与延伸阅读。欢迎随时回访。
