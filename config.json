@@ -1,14 +1,12 @@
 const config = {
   showSidebar: true,
-};
-const config = {
-  title: "My Awesome Blog",
-  description: "This is my awesome blog built with Flowershow",
-  author: "John",
+  title: "我的读书库",
+  description: "记录阅读笔记、书摘与思考的个人读书库",
+  author: "读书人",
   logo: "/images/logo.svg",
-  domain: "https://john.app/",
+  domain: "https://reading.example/",
   // 链接到你想要显示的网页，这会显示在导航栏和页脚
-  navLinks: [{ href: "/about", name: "About" }],
+  navLinks: [{ href: "/03Inbox/失误动作", name: "读书笔记" }],
 };
 
 export default config;
